@@ -1,0 +1,4 @@
+#忽略node_modules文件
+/node_modules
+2.css
+yarn.lock
